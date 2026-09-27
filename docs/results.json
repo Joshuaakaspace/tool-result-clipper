@@ -1,0 +1,37 @@
+{
+  "budget": 400,
+  "rows": [
+    {
+      "kind": "json",
+      "input_tokens": 15287,
+      "budget": 400,
+      "naive_retention_pct": 25.0,
+      "smart_retention_pct": 100.0,
+      "smart_output_tokens": 94
+    },
+    {
+      "kind": "logs",
+      "input_tokens": 12402,
+      "budget": 400,
+      "naive_retention_pct": 0.0,
+      "smart_retention_pct": 100.0,
+      "smart_output_tokens": 236
+    },
+    {
+      "kind": "list",
+      "input_tokens": 3531,
+      "budget": 400,
+      "naive_retention_pct": 50.0,
+      "smart_retention_pct": 50.0,
+      "smart_output_tokens": 400
+    },
+    {
+      "kind": "text",
+      "input_tokens": 4230,
+      "budget": 400,
+      "naive_retention_pct": 50.0,
+      "smart_retention_pct": 100.0,
+      "smart_output_tokens": 400
+    }
+  ]
+}
